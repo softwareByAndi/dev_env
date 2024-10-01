@@ -1,0 +1,14 @@
+jupyter
+numpy
+pandas
+matplotlib
+seaborn
+scipy
+# scikit-learn
+# tensorflow  # Because everyone installs it and then realizes they have no idea what to do with it.
+# torch  # PyTorch, so trendy it's just 'torch' now.
+requests  # For when you need to spam APIs with a thousand GET requests.
+beautifulsoup4  # For scraping websites until they inevitably block you.
+pytest  # Because your code definitely needs more testing, let’s be honest.
+black  # Formatting, because reading your own code should be a pleasure, not a punishment.
+pylint  # So you can ignore its advice and keep writing "creative" code.
